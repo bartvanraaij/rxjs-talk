@@ -1,7 +1,6 @@
 # Get out of Callback Hell: Observables and RxJS to the rescue
 
-Are you still writing callback functions? Hanging on to the good ol' jQuery days?
-There's no shame in that, but before you know it you're standing at the gates of Callback Hell. Luckily there's a shiny library that'll rescue you, and it's called RxJS.
+Are you still writing callback functions? Hanging on to the good ol' jQuery days? There's no shame in that, but before you know it you're standing at the gates of Callback Hell. Luckily there's a shiny library that'll rescue you, and it's called RxJS.
 
 Observables and RxJS can help you to write clean and concise code for handling asynchronous stuff: from retrieving data from an API, to reading files from disk and waiting for user interactions. RxJS can be quite hard though: its learning curve is steep, especially if you're unfamiliar with reactive and declarative programming and all of the terminology that comes with it. 
 
